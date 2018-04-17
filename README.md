@@ -4,5 +4,5 @@ This is the second assignment École 42 lets students to complete. Within the sm
 To use, follow the instructions. :)
 
 1. Enter 'make'.
-2. Enter './fillit <testing file name>'
+2. Enter './fillit \<testing file name\>'
 3. To clean up, enter 'make fclean'.
